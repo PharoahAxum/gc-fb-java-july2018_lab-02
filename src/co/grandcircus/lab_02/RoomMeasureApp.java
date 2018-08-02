@@ -2,7 +2,7 @@ package co.grandcircus.lab_02;
 
 import java.util.Scanner; 
 
-public class MeasureRoom {
+public class RoomMeasureApp {
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
