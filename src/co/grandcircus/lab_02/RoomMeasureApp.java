@@ -1,6 +1,9 @@
 package co.grandcircus.lab_02;
 
-import java.util.Scanner; 
+import java.util.Scanner;
+
+// Task: Lab 02 - Calculate the perimeter and area of various classrooms at Grand Circus based on user
+// input.
 
 public class RoomMeasureApp {
 
